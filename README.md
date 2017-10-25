@@ -1,0 +1,2 @@
+# przypsuzyt
+Przypadki uzycia IO
